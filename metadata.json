@@ -1,0 +1,6 @@
+{
+  "name": "Fusión del Mar - Cocina Oculta Ecuatoriana",
+  "description": "Cocina oculta en Barranquilla de mariscos frescos y cenas completas para celebraciones bajo demanda. Exclusivamente comida lista para servir en Barranquilla y su área metropolitana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
